@@ -19,7 +19,7 @@ This dashboard provides a comprehensive overview of support operations, offering
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/support-dashboard.git
+   git clone https://github.com/deepakcodes19/support-dashboard.git
    ```
 2. **Install Dependencies:**
    ```bash
