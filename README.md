@@ -1,7 +1,7 @@
 
-**Project Title:** Support Dashboard
+#Project Title: Support Dashboard
 
-**Description:**
+##Description:##
 
 This dashboard provides a comprehensive overview of support operations, offering insights into key metrics, trends, and performance indicators. It is designed to help teams analyze support data, identify areas for improvement, and make data-driven decisions to enhance customer satisfaction.
 
