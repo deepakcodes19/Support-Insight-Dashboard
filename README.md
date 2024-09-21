@@ -53,6 +53,7 @@ Contributions are welcome! Please follow these guidelines:
 
 
 **Screenshots:**
-[Include screenshots or mockups of the dashboard to provide a visual overview]
+Support Insight dashboard.png
+
 
 # Support-Insight-Dashboard
