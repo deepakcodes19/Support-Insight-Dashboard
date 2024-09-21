@@ -38,7 +38,7 @@ This dashboard provides a comprehensive overview of support operations, offering
 * **[Insert data sources used to populate the dashboard]**
 
 **Screenshot:**
-![Image Description](path/to/your/image.jpg)
+![Image Description](Support Insight dashboard.png)
 
 **Contributing:**
 
