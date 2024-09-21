@@ -38,7 +38,9 @@ This dashboard provides a comprehensive overview of support operations, offering
 * **[Insert data sources used to populate the dashboard]**
 
 **Screenshot:**
-![Image Description](Support Insight dashboard.png)
+<p align="center">
+    <img src='https://github.com/deepakcodes19/Support-Insight-Dashboard/blob/main/resources/support-insight-dashboard.png' height="400">
+</p>
 
 **Contributing:**
 
